@@ -10,4 +10,8 @@ public class AntTest {
 		String app = "app";
 		System.out.println(app);
 	}
+	
+	public static void get() {
+		System.out.println("String");
+	}
 }
