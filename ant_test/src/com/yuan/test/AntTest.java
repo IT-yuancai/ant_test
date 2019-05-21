@@ -7,4 +7,8 @@ public class AntTest {
 		System.out.println("this is second git project.");
 		System.out.println("this is fourth git project.");
 	}
+	
+	public static void get() {
+		System.out.println("String");
+	}
 }
