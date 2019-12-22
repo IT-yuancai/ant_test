@@ -11,6 +11,10 @@ public class AntTest {
 		System.out.println(app);
 	}
 	
+        public static void set() {
+               System.out.println("this is a set funtion");
+        }
+
 	public static void get() {
 		System.out.println("String");
 	}
