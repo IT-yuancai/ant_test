@@ -18,4 +18,8 @@ public class AntTest {
 	public static void get() {
 		System.out.println("String");
 	}
+
+	public String rtn() {
+		return "this is a rtn funtion";
+	}
 }
