@@ -22,4 +22,8 @@ public class AntTest {
 	public String rtn() {
 		return "this is a rtn funtion";
 	}
+
+	private void yuanc() {
+		System.out.println("yuancai");
+	}
 }
