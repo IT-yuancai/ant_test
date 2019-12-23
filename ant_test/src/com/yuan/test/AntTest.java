@@ -23,7 +23,7 @@ public class AntTest {
 		return "this is a rtn funtion";
 	}
 
-	private void yuanc() {
+	private void yuancai() {
 		System.out.println("yuancai");
 	}
 }
