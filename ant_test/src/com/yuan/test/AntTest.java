@@ -11,7 +11,7 @@ public class AntTest {
 		System.out.println(app);
 	}
 	
-        public static void set() {
+        public static void set2() {
                System.out.println("this is a set funtion");
         }
 
